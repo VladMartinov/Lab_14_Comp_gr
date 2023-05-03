@@ -13,7 +13,7 @@ namespace Lab_14_Comp.gr._
         double v11, v12, v13, v21, v22, v23, v32, v33, v43;
         
         /* Сферические координаты точки наблюдения */
-        double rho = 150.0, theta = 320.0, phi = 45.0;
+        double rho = 150.0, theta = 120.0, phi = 45.0;
         
         /* Расстояние от точки наблюдения до экрана */
         double screen_dist = 125.0;
